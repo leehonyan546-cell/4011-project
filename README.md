@@ -48,6 +48,11 @@ As documented in our project report:
 - [📺 Demo Clip 2 - Detection](https://youtu.be/BhsmWFraiSY)
 - [📺 Demo Clip 3 - Detection](https://youtu.be/RoxD0rOsVew)
 - <img width="1920" height="1080" alt="violation_gloves" src="https://github.com/user-attachments/assets/bb8eb65c-26e8-44c7-89fd-b33daaaa9308" />
+- <img width="971" height="754" alt="螢幕截圖 2026-04-19 下午7 18 16" src="https://github.com/user-attachments/assets/e8de4698-0e89-446c-a3b9-a0b9d6399ccd" />
+-<img width="1048" height="799" alt="螢幕截圖 2026-04-12 下午4 45 19" src="https://github.com/user-attachments/assets/276fb4cb-546a-4d16-bb93-52b998a5df0d" />
+
+
+
 
 
 ---
