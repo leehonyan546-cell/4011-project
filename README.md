@@ -46,7 +46,9 @@ As documented in our project report:
 ## 🎥 Project Demonstration
 - [📺 Demo Clip 1 - Detection](https://youtu.be/u5vIJxIKNjs)
 - [📺 Demo Clip 2 - Detection](https://youtu.be/BhsmWFraiSY)
-- [📺 Demo Clip 3 - System Integration](https://youtu.be/RoxD0rOsVew)
+- [📺 Demo Clip 3 - Detection](https://youtu.be/RoxD0rOsVew)
+- <img width="1920" height="1080" alt="violation_gloves" src="https://github.com/user-attachments/assets/bb8eb65c-26e8-44c7-89fd-b33daaaa9308" />
+
 
 ---
 
