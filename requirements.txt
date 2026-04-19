@@ -1,0 +1,4 @@
+ultralytics
+requests
+opencv-python
+# Note: For Mac users, ensure torch is installed with MPS support
