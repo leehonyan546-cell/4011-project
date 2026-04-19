@@ -5,7 +5,7 @@ import os
 # --- 1. 配置區 ---
 BOT_TOKEN = "8685953963:AAHHOHWMP2OMxzTFnOk_8OmiqChuXMfgXP8"
 CHAT_ID = "1441936253" 
-MODEL_PATH = "weights/best.pt"
+MODEL_PATH = model = YOLO("best.pt")
 PHOTO_PATH = "test_data/PPE_test_image.jpg"
 
 def send_alert(message, image_path=None):
