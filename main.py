@@ -5,8 +5,8 @@ import os
 # --- 1. 配置區 ---
 BOT_TOKEN = "8685953963:AAHHOHWMP2OMxzTFnOk_8OmiqChuXMfgXP8"
 CHAT_ID = "1441936253" 
-MODEL_PATH = "/Users/honyanlee/Downloads/PPE_Project_New/runs/detect/ppe_full_v12/weights/best.pt"
-PHOTO_PATH = "/Users/honyanlee/Downloads/PPE_test_image.jpg"
+MODEL_PATH = "weights/best.pt"
+PHOTO_PATH = "test_data/PPE_test_image.jpg"
 
 def send_alert(message, image_path=None):
     try:
